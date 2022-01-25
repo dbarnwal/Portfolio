@@ -17,8 +17,22 @@
 .info-name {
   color: blue;
   font-size: 32px;
+  margin-left: 12px;
+}
+.ityped-cursor {
+  font-size: 40px;
+  animation: blink 1s infinite;
+  color: black;
 }
 
+@keyframes blink {
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
 @media only screen and (max-width: 720px) {
   .about-top {
     flex-direction: column;
@@ -35,4 +49,8 @@
   .info-name {
     font-size: 26px;
   }
+  .ityped-cursor {
+    font-size: 30px;
+  }
 }
+

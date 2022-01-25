@@ -48,6 +48,10 @@ export const SkillsData = [
         name: "Git",
         icon: <i class="devicon-git-plain colored"></i>,
       },
+      {
+        name: "Linux",
+        icon: <i class="devicon-linux-plain colored"></i>,
+      },
     ],
   },
 ];

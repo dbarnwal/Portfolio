@@ -1,14 +1,24 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import SocialContact from "../../../common/social-contact";
 import "./about.css";
+import { init } from "ityped";
+
 function About() {
+  const textRef = useRef();
+  useEffect(() => {
+    init(textRef.current, {
+      showCursor: true,
+      backDelay: 1000,
+      backSpeed: 70,
+      strings: [" Competitive Programmer.", " Developer.", " Student."],
+    });
+  }, []);
   return (
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello There 👋, I'm <br />
-          <span className="info-name"> Deepak Barnwal </span>
-          <br /> exploring/experimenting the Web.
+          Hello There 👋, <br /> I'm a
+          <span className="info-name" ref={textRef}></span>
         </div>
 
         <div className="about-photo">
