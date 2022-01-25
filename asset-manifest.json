@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1ddbdc49.css",
+    "main.js": "/Portfolio/static/js/main.bf2570e6.js",
+    "static/js/787.43d88a3b.chunk.js": "/Portfolio/static/js/787.43d88a3b.chunk.js",
+    "static/media/ME.jpg": "/Portfolio/static/media/ME.7ded0c57a7544fd3ffd3.jpg",
+    "static/media/wip.png": "/Portfolio/static/media/wip.3b22508b01ca6f58fc34.png",
+    "static/media/Shatranj.png": "/Portfolio/static/media/Shatranj.08afd7bd9e5927eb747d.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.f6adb9480763f7df0be5.pdf",
+    "static/media/gfg.png": "/Portfolio/static/media/gfg.4ec14bd1f0d548f3b8d3.png",
+    "static/media/leetcode.png": "/Portfolio/static/media/leetcode.7e80f19dc3200739ff20.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.a7ae17746ef2251ba058.png",
+    "static/media/codeforces.png": "/Portfolio/static/media/codeforces.28cb1bbbcbaeafcc344c.png",
+    "static/media/github.png": "/Portfolio/static/media/github.6c75ee05afe7a8976267.png",
+    "static/media/hackerrank.png": "/Portfolio/static/media/hackerrank.eab675a51239a438321a.png",
+    "static/media/hackerearth.png": "/Portfolio/static/media/hackerearth.1e6d5c80c781f4488ec4.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1ddbdc49.css.map": "/Portfolio/static/css/main.1ddbdc49.css.map",
+    "main.bf2570e6.js.map": "/Portfolio/static/js/main.bf2570e6.js.map",
+    "787.43d88a3b.chunk.js.map": "/Portfolio/static/js/787.43d88a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddbdc49.css",
+    "static/js/main.bf2570e6.js"
+  ]
+}
