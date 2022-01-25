@@ -11,7 +11,7 @@ export const ProjectData = [
   },
   {
     id: 1,
-    title: "Text Editor++",
+    title: "Text Editor++", 
     about:
       "A Text Editor which auto compress text files on saving, using Huffman Encoding , Bit Packing . Achieved an average compression of 50% and best case 80% of the original file.",
     tags: ["QT Framework", "C++", "File Handling"],
