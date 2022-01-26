@@ -23,6 +23,6 @@ export const WorkData = [
     dateJoining: "Oct 2021",
     dateEnd: "Dec 2021",
     companyLogo: require("../../assets/gfg.png"),
-    work: "Yet to Join",
+    work: "Published many articles/problems on Competitive programming.",
   },
 ];
